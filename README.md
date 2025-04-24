@@ -66,6 +66,26 @@ Analyze smart device usage data to identify trends and apply insights to one Bel
 
 4. **Focus on Workweek Campaigns**  
    Most active days are weekdays — design campaigns around “start your week strong” challenges.
+   
+# 🗂️ Folder Structure
+
+```r
+Bellabeat-Case-Study/
+│
+├── data/
+│   └── raw/               # Original Kaggle CSV files
+│   └── processed/         # Cleaned datasets
+│
+├── notebooks/
+│   ├── data_cleaning.ipynb
+│   ├── eda.ipynb
+│   └── visualizations.ipynb
+│
+├── images/                # Exported plots and charts
+│
+├── README.md              # Case study overview (this file)
+└── presentation/          # Google Slides or PowerPoint file
+```
 
 # 🧩 Tools & Skills Used
 * **Languages:** Python, SQL
