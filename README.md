@@ -32,7 +32,7 @@ Analyze smart device usage data to identify trends and apply insights to one Bel
 * Normalized time formats
 * Converted data types for accurate analysis
 * Merged datasets where appropriate (e.g., steps with calories)
-🧹 Documented in _
+🧹 Documented in [/notebooks/data_cleaning.ipynb](https://github.com/RyanAttia/Bellabeat-Case-Study/blob/main/notebooks/data_cleaning.ipynb)
 
 ## 4️⃣ Analyze
 **Exploratory Data Analysis (EDA) Highlights**
@@ -40,14 +40,14 @@ Analyze smart device usage data to identify trends and apply insights to one Bel
 * Users are more active on weekdays vs weekends.
 * Most users do not meet the recommended 10,000 steps/day.
 * Users who sleep more tend to be slightly more active.
-📈 See charts in _
+📈 See charts in [/notebooks/eda.ipynb](https://github.com/RyanAttia/Bellabeat-Case-Study/blob/main/notebooks/eda.ipynb)
 
 ## 5️⃣ Share
 **Visualizations**
 * Heatmaps of activity correlation
 * Distribution of step counts
 * Sleep duration vs activity bar plots
-📊 See _ and _ folder
+📊 See [/notebooks/visualizations.ipynb](https://github.com/RyanAttia/Bellabeat-Case-Study/blob/main/notebooks/visualizations.ipynb) and [/images](https://github.com/RyanAttia/Bellabeat-Case-Study/tree/main/images) folder
 
 **Audience**
 * Bellabeat Executive Team
